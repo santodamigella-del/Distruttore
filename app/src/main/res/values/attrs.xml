@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="dBg" format="color" />
+    <attr name="dCard" format="color" />
+    <attr name="dStroke" format="color" />
+    <attr name="dText" format="color" />
+    <attr name="dTextSec" format="color" />
+    <attr name="dAccent" format="color" />
+    <attr name="dAccentDark" format="color" />
+    <attr name="dTextGold" format="color" />
+    <attr name="dPrimary" format="color" />
+    <attr name="dPrimaryVar" format="color" />
+    <attr name="dBlue" format="color" />
+    <attr name="dWin" format="color" />
+    <attr name="dLost" format="color" />
+    <attr name="dOnPrimary" format="color" />
+</resources>

@@ -1,0 +1,129 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Temi di Distruttore (stesse palette della versione Linux): Blu scuro, Chiaro, Rosso fuoco, Vampiro. -->
+    <style name="Theme.Distruttore.Blu" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="dBg">#0F172A</item>
+        <item name="dCard">#1E293B</item>
+        <item name="dStroke">#334155</item>
+        <item name="dText">#F8FAFC</item>
+        <item name="dTextSec">#94A3B8</item>
+        <item name="dAccent">#F59E0B</item>
+        <item name="dAccentDark">#D97706</item>
+        <item name="dTextGold">#FBBF24</item>
+        <item name="dPrimary">#0F172A</item>
+        <item name="dPrimaryVar">#1E293B</item>
+        <item name="dBlue">#2563EB</item>
+        <item name="dWin">#34D399</item>
+        <item name="dLost">#F87171</item>
+        <item name="dOnPrimary">#FFFFFF</item>
+        <item name="colorPrimary">#0F172A</item>
+        <item name="colorPrimaryVariant">#1E293B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#F59E0B</item>
+        <item name="colorSecondaryVariant">#D97706</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="colorSurface">#1E293B</item>
+        <item name="colorOnSurface">#F8FAFC</item>
+        <item name="android:colorBackground">#0F172A</item>
+        <item name="colorOnBackground">#F8FAFC</item>
+        <item name="android:windowBackground">#0F172A</item>
+        <item name="android:statusBarColor">#0F172A</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.Distruttore.Chiaro" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="dBg">#F1F5F9</item>
+        <item name="dCard">#FFFFFF</item>
+        <item name="dStroke">#CBD5E1</item>
+        <item name="dText">#0F172A</item>
+        <item name="dTextSec">#475569</item>
+        <item name="dAccent">#D97706</item>
+        <item name="dAccentDark">#B45309</item>
+        <item name="dTextGold">#B45309</item>
+        <item name="dPrimary">#DBEAFE</item>
+        <item name="dPrimaryVar">#BFDBFE</item>
+        <item name="dBlue">#2563EB</item>
+        <item name="dWin">#047857</item>
+        <item name="dLost">#B91C1C</item>
+        <item name="dOnPrimary">#0F172A</item>
+        <item name="colorPrimary">#DBEAFE</item>
+        <item name="colorPrimaryVariant">#BFDBFE</item>
+        <item name="colorOnPrimary">#0F172A</item>
+        <item name="colorSecondary">#D97706</item>
+        <item name="colorSecondaryVariant">#B45309</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#0F172A</item>
+        <item name="android:colorBackground">#F1F5F9</item>
+        <item name="colorOnBackground">#0F172A</item>
+        <item name="android:windowBackground">#F1F5F9</item>
+        <item name="android:statusBarColor">#DBEAFE</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.Distruttore.Fuoco" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="dBg">#2A0E06</item>
+        <item name="dCard">#4A1607</item>
+        <item name="dStroke">#C2410C</item>
+        <item name="dText">#FFF7ED</item>
+        <item name="dTextSec">#FED7AA</item>
+        <item name="dAccent">#FDBA74</item>
+        <item name="dAccentDark">#F97316</item>
+        <item name="dTextGold">#FDE047</item>
+        <item name="dPrimary">#7C1D12</item>
+        <item name="dPrimaryVar">#EA580C</item>
+        <item name="dBlue">#F59E0B</item>
+        <item name="dWin">#4ADE80</item>
+        <item name="dLost">#FECACA</item>
+        <item name="dOnPrimary">#FFFFFF</item>
+        <item name="colorPrimary">#7C1D12</item>
+        <item name="colorPrimaryVariant">#EA580C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FDBA74</item>
+        <item name="colorSecondaryVariant">#F97316</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="colorSurface">#4A1607</item>
+        <item name="colorOnSurface">#FFF7ED</item>
+        <item name="android:colorBackground">#2A0E06</item>
+        <item name="colorOnBackground">#FFF7ED</item>
+        <item name="android:windowBackground">#2A0E06</item>
+        <item name="android:statusBarColor">#7C1D12</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.Distruttore.Vampiro" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="dBg">#1A0505</item>
+        <item name="dCard">#2D0A0A</item>
+        <item name="dStroke">#7F1D1D</item>
+        <item name="dText">#FFF7ED</item>
+        <item name="dTextSec">#FDBA74</item>
+        <item name="dAccent">#FB923C</item>
+        <item name="dAccentDark">#F97316</item>
+        <item name="dTextGold">#FBBF24</item>
+        <item name="dPrimary">#2A0707</item>
+        <item name="dPrimaryVar">#7F1D1D</item>
+        <item name="dBlue">#F97316</item>
+        <item name="dWin">#34D399</item>
+        <item name="dLost">#FCA5A5</item>
+        <item name="dOnPrimary">#FFFFFF</item>
+        <item name="colorPrimary">#2A0707</item>
+        <item name="colorPrimaryVariant">#7F1D1D</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FB923C</item>
+        <item name="colorSecondaryVariant">#F97316</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="colorSurface">#2D0A0A</item>
+        <item name="colorOnSurface">#FFF7ED</item>
+        <item name="android:colorBackground">#1A0505</item>
+        <item name="colorOnBackground">#FFF7ED</item>
+        <item name="android:windowBackground">#1A0505</item>
+        <item name="android:statusBarColor">#2A0707</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Compatibilità: il vecchio nome del tema punta al tema Blu scuro. -->
+    <style name="Theme.LottoInJava" parent="Theme.Distruttore.Blu" />
+
+    <!-- Splash screen: mostrata all'avvio, poi il tema scelto viene applicato da ThemeHelper. -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#1A0505</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.Distruttore.Blu</item>
+    </style>
+</resources>
